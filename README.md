@@ -26,6 +26,10 @@ la cual permite realizar videollamadas y compartir pantalla con varios usuarios.
 
 
 
+![share](https://user-images.githubusercontent.com/72144025/119673988-73160600-be01-11eb-8acc-b8e938ee602f.png)
+
+
+
 
 
 ![vs_share5](https://user-images.githubusercontent.com/72144025/119673742-38ac6900-be01-11eb-9f61-b2b064c921eb.png)
